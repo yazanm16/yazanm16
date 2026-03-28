@@ -77,7 +77,7 @@ A real-world employee management system built during my internship at **Rentoor 
 A full-featured university platform for students and staff.
 
 - Designed RESTful APIs with **JWT authentication** and **RBAC**
-- Implemented modules for notes, favorites, archive, and **real-time messaging**
+- Implemented modules for notes, favorites, archive
 - Integrated a **Flask-based AI chatbot** powered by a few-shot LLaMA 3 model with a **RAG pipeline**
 
 ---
